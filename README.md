@@ -62,8 +62,6 @@ with open('locations.csv', 'r') as infile, open('coordinates.csv', 'w', newline=
 - Se exportó el mapa en formato HTML desde Kepler.gl.
 - **Importante:** Se debe tener un token de Mapbox válido para la exportación, de modo que la visualización no expire.
     - Puedes obtener un token en: [Mapbox Tokens](https://console.mapbox.com/account/access-tokens)
-    - Ejemplo de token utilizado:
-        - `pk.eyJ1IjoibmVsc29uZXN0cmFkYSIsImEiOiJjbTk0YjdwY2Ywb2Z4MnJvbGZ0bXAzdmRiIn0.o1Q2JsOrtwZTjMFvi9V-ew`
 - Se creó el repositorio en GitHub: [map_of_journals_around_the_world](https://github.com/nelsonestrada5/map_of_journals_around_the_world).
 - Se agregó el archivo index.html directamente en GitHub.
 - Se habilitó GitHub Pages para el repositorio:
