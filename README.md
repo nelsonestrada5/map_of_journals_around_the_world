@@ -1,5 +1,4 @@
 # Proyecto: Mapa Global de Ventas de Journals
-
 <aside>
 ⭐
 
@@ -85,5 +84,7 @@ with open('locations.csv', 'r') as infile, open('coordinates.csv', 'w', newline=
         style="border: none;">
 </iframe>
 ```
+<img width="2672" alt="image" src="https://github.com/user-attachments/assets/ba0bfe59-e947-4065-826e-00e8867c59fc" />
+
 
 - Se ajustaron las dimensiones según las necesidades del diseño.
